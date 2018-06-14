@@ -1,0 +1,55 @@
+Gavin
+-----
+Anchored around stories - find the story and build a use case around it
+
+Individuals control over their own data - offering services (mortgages/financial profile)
+
+Uganda - open banking - Mobile banking mentioned at Summit
+
+How do we harness the ideas and tech from around the world to create impact - 10x on particular problems
+
+New projects - Climate Change, Insurance Industry, Copy open banking standard for insurance models for island states/greater info about individual with a strong data-ethics framework - risk profiles, How do we apply this to health care w/ data ethics and allows business to engage.
+
+Components are delivery-focused rather than think tank (compelling stories to tell in short, actionable timeframes - tech based (already existing techs) not having to invest/learn new techs ie Blockchain) EG: US Aids and DiffEd(?) in the UK different funding release points seen as data and policy-sharing challenge. Data flow inside organizations - risk modelling siloed. 
+
+Policy, Innovation, Action
+
+Story - Making - Policy - Governance - Learning & Sharing - How to get everyone speaking the same language and use these tools
+
+'Culture where passing information becomes routine'
+
+Broad open standards - open banking - living standards (web development example - nothing is ever finished)
+
+Human needs and machine needs
+
+Thinking about networked data as part of the infrastructure - Open Data Institute - principals for system designed designed with open-api - foundation stone for how we engage problem solving
+
+"The tech ppl have already built this - open APIs, thinking, arcitechture, ethics - policy people were nowhere - putting all in same room and collab everyone is moving forward (UK model -> worldwide) - released MIT license"
+
+Banks paying ~50m anually - releasing software as open source.
+
+"Burning question instead of 'if-only' questions"
+
+What is the story we want to tell - start by writing a script of story from start to ideal outcome
+
+"Map out the challenges - the landscape has shifted" - mapping existing actors/stakeholders
+
+Insurance industry - Google deepmind
+
+How can we make everyone comfortable sharing information?
+
+Charles
+-------
+Investment lending - civil registration - share information and that logs ppls birth/death, cash transfer programs prevented by lack of ID information
+
+Gavin
+-----
+Elevator pitch for document - "Spoke with SDG team, thing that was exciting was the framing of the SDGs was powerful. How to turn data is an operational asset from high lvl goals to ppl on the ground? To solve a very particular type of problem. Platic waste, health care, climate change etc. What is the grouping to get together to brainstorm for a day and come up with a plan? A problem-first approach"
+
+Clinton
+-------
+Story maps - common visual language for storytelling
+
+Standardization - Patterns and Practices - Mirrors software development
+
+Finding ways for priv/pub synergy - Open source model aka Continuum Analytics
